@@ -3,5 +3,3 @@ node_modules/
 /playwright-report/
 /playwright/.cache/
 package-lock.json
-tests/example.spec.ts
-tests-examples/demo-todo-app.spec.ts
